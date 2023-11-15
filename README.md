@@ -136,6 +136,8 @@ endmodule
 ![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/a7b3d6c6-e9ba-46c6-8e88-150521b6bc90)
 
 
-
+<br></br>
+<br></br>
+<br></br>
 ### RESULT: 
 Thus, 8 to 3 Encoder and 3 to 8 Decoder is implemented using verilog and its outputs is validated.
